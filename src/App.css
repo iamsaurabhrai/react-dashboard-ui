@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  color: white;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.ant-layout-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+::-webkit-scrollbar {
+  width: 4px !important;
+  height: 4px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #00000010 !important;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0000007d !important;
+}
+
+hr {
+  opacity: 0.2;
+}

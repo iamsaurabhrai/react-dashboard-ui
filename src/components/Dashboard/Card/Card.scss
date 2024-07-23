@@ -1,0 +1,49 @@
+@import "../../../style/_variables";
+
+.card-column {
+    width: 320px;
+    padding: 0px 16px;
+    border-right: 1px solid $theme-light-border-color;
+    &-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-weight: 500;
+      color: #9aa6b4;
+      padding: 8px;
+      border: 1px solid $theme-light-border-color;
+      margin-bottom: 10px;
+    }
+
+    &-cards {
+      height: calc(100vh - 280px);
+      overflow-y: auto;
+      overflow-x: hidden;
+      .card {
+        margin-top: 10px !important;
+        display: grid;
+        gap: 16px;
+        width: 270px;
+        padding: 10px;
+        margin: auto;
+        box-shadow: 0 0 0 2px rgba(5, 145, 255, 0.1);
+        border: 1px solid $theme-light-border-color;
+
+        &-title {
+          color: $text-highlighted-color;
+          font-weight: bolder;
+        }
+
+        &-info {
+          color: $text-primary-color;
+        }
+      }
+    }
+
+    &-total {
+      font-weight: 500;
+      color: $text-primary-color;
+      text-align: center;
+      padding: 10px;
+    }
+  }

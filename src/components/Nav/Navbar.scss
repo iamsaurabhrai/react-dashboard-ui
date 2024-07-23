@@ -1,0 +1,39 @@
+@import "../../style/_variables";
+.app-navbar {
+  background: $theme-surface-color !important;
+  height: 48px;
+  .ant-menu {
+    background: transparent !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &-item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: transparent !important;
+      &-selected {
+        height: 48px !important;
+        background: $theme-active-color !important;
+      }
+    }
+  }
+
+  .ant-input {
+    width: 300px;
+    height: 32px !important;
+    background: $input-background-color !important;
+    outline: none;
+    box-shadow: none;
+    border: none;
+
+    &::placeholder {
+      color: $input-placeholder-color !important;
+    }
+  }
+
+  span {
+    color: $text-primary-color !important;
+  }
+}

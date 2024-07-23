@@ -1,0 +1,75 @@
+[
+    {
+       "title":"Appointment Set",
+       "count":32,
+       "total":4400,
+       "items":[
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          },
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          },
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          }
+       ]
+    },
+    {
+       "title":"Appointment Completed",
+       "count":21,
+       "total":2000,
+       "items":[
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          },
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          }
+       ]
+    },
+    {
+       "title":"Buyer Journey Confirmed",
+       "count":19,
+       "total":3000,
+       "items":[
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          },
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          }
+       ]
+    },
+    {
+       "title":"Working Upgrade",
+       "count":10,
+       "total":300,
+       "items":[
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          },
+          {
+             "title":"Some New Deal",
+             "closeDate":"10/25/2025",
+             "avatar":"https://media.istockphoto.com/id/1163306517/photo/happy-successful-businesswoman-smiling-at-camera.jpg?s=1024x1024&w=is&k=20&c=avPX531IXD_ZSpBEDaPR_uHqdCSF4t3A-VR74IBNVwo="
+          }
+       ]
+    }
+ ]
